@@ -1,0 +1,6 @@
+LOGIN_BUTTON = "//a[@href='/signin']"
+LOGIN_INPUT = "//input[@name='email']"
+PASSWORD_INPUT = "//input[@name='password']"
+SUBMIT_BUTTON = "//button[@type='submit']"
+PROXY_TAB = "//section//p[contains(text(), 'IPv4 Shared')]"
+PROXY_TABLE_ELEMENTS = "//tbody//tr"
